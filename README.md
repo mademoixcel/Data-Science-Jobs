@@ -16,3 +16,10 @@ Pinpointing the top locations associated with each specific data-related role.
 ### Dataset
 This project utilized a dataset sourced from KAGGLE, which showcases listings for a variety of data-related job postings on Glassdoor. The analysis was conducted using Python, mainly for data cleaning and initial transformations. Additional data transformations were carried out using Microsoft Excel, while Power BI was employed for visualization purposes.
 
+
+## 5. Methodology
+| Stage                       | Description                                                   | Tools/Platforms          |
+|-----------------------------|---------------------------------------------------------------|--------------------------|
+| Data Collection             | Gathering relevant data from Kaggle platform.                 | [Kaggle](https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor)                   |
+| Data Cleaning and Transformation | Preparing collected data through cleaning and transformation. | [Python](https://github.com/mademoixcel/Customer-Profiling-Analysis/blob/main/clean_customer_data.csv)        |
+| Data Visualization          | Creating visual representations of analyzed data.             | [Power BI ](https://app.powerbi.com/view?r=eyJrIjoiMzhlNDEwODctMTc5NC00MzViLWI1YWQtMDIzYzY0NWFmYjgzIiwidCI6IjA2NmM4OTg0LWZmOTgtNDM1NC04YTdhLWZhY2I1NGE0YjUyOSJ9)               |
