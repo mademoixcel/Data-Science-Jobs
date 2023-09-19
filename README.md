@@ -35,5 +35,5 @@ This project utilized a dataset sourced from KAGGLE, which showcases listings fo
 
 1. 94% of data jobs require a BI tool.
 2. Top sectors that hire data professionals are Information technology, Business Services, and Biotech and pharmaceuticals.
-3. 76% of all data jobs require Python.
+3. 76% of all data jobs require Python programming language.
 4. Data science is the most popular of all data-related jobs.  
